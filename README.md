@@ -1,2 +1,2 @@
 # teste
-teste apenas para treinamento
+teste apenas para treinamento do processo git clone 
